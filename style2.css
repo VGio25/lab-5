@@ -1,0 +1,53 @@
+body{
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+
+    background-color: blue;
+}
+
+footer{
+    background-color: lightgray;
+}
+.container{
+    background-color: lightgray;
+}
+.container  p{
+ color: red;
+}
+.highlight{
+    color: green;
+}
+.main-content {
+    background-color: yellow;
+}
+.centered {
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h5,h6 {
+    text-decoration: underline;
+    text-decoration-line:dashed;
+}
+.bold-text{
+    font-weight: bold;
+}
+#intro{
+    font-weight: 300;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+    
+h7{
+    text-transform: uppercase;
+}
+.capitalize-text {
+    text-transform: capitalize;
+}
